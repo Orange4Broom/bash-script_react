@@ -61,3 +61,4 @@ Ensure that you understand the script's behavior and potential implications befo
 ## Conclusion
 
 The provided Bash script simplifies the process of creating a project, setting up a GitHub repository, configuring dependencies, and pushing the project to GitHub. By automating these tasks, it saves time and reduces manual effort. Feel free to customize the script according to your project needs and use it as a starting point for your own project creation automation.
+
